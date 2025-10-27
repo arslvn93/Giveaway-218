@@ -27,17 +27,12 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "facebookPixelId": "1057475448873422",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/5LwEgxAcQN6CdYWQXNYq/webhook-trigger/ZsFIP565MuCei2bR0LC7",
+    "facebookPixelId": "",
+    "turnstileSiteKey": "",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Neighbourhood Treasures Giveaway</strong> is in. We will draw the winner on Nov 30, 2025 and email the result. Good luck!",
-    "socialPromptText": "Tell a neighbour. More entries make it fun. Watch your inbox on Nov 30."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -132,8 +127,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Ontario residents 18+. One entry per person. No purchase necessary.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -165,6 +158,8 @@ const config = {
       "Tell a friend or neighbour to enter too",
       "Follow Daaron Johnston on Instagram or Facebook for updates"
     ],
+    "finePrintText": "Please read the fine print before entering. Ontario residents 18+. One entry per person. No purchase necessary.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We use a random draw tool. Each valid entry has the same chance. No tricks. No bias."
@@ -185,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1761588296435_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1761588296435_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1761588296435_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -251,6 +246,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re In the Running!",
+    "mainMessage": "Your entry for the <strong>Neighbourhood Treasures Giveaway</strong> is in. We will draw the winner on Nov 30, 2025 and email the result. Good luck!",
+    "socialPromptText": "Tell a neighbour. More entries make it fun. Watch your inbox on Nov 30."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/people/Daaron-Johnston/100066548707831/",
@@ -258,26 +265,26 @@ const config = {
     },
     "agentContact": {
       "name": "Daaron Johnston",
-      "title": "Real Estate Broker",
+      "title": "Broker, Sales Representative",
       "phone": "(647) 409-6568",
       "email": "daaron@property.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Daaron Johnston at Property.Ca and is not affiliated with Good Neighbour, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close Nov 29, 2025 at 11:59 PM ET. Winner selected at random on Nov 30, 2025. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
+    "organizerLogoUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/5LwEgxAcQN6CdYWQXNYq/media/afffa9f4-9be1-48b2-857d-0907f64d2e97.png",
+    "secondaryLogoUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/5LwEgxAcQN6CdYWQXNYq/media/6813d66601c78bf3c795155b.png",
+    "secondaryLogoAlt": "Property.Ca",
     "organizerName": "Daaron Johnston",
     "brokerageName": "Property.Ca",
     "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
     "email": "daaron@property.ca",
     "phone": "(647) 409-6568",
-    "copyrightOwner": "Property.Ca"
+    "copyrightOwner": "Daaron Johnston"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-218",
     "repoUrl": "https://github.com/arslvn93/Giveaway-218",
     "netlifyUrl": "http://Giveaway-218.netlify.app",
     "netlifyId": "",
-    "tag": "Good Neighbour Giveaway"
+    "tag": "Neighbourhood Gift Card Giveaway"
   }
 };
