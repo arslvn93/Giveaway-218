@@ -6,15 +6,15 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$100 Good Neighbour Gift Card</span> in Leslieville!",
-    "heroSubheadline": "Shop local. Find gifts, clothes, toys, and home goods. Fast entry. Free to join. Enter by Nov 29. Winner drawn Nov 30.",
+    "heroSubheadline": "Shop local. Find gifts, clothes, toys, and home goods. Fast entry. Free to join. Enter by Jan 8. Winner drawn Jan 9.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/r4yfq50ch9rma0ct1219kvw9jw.jpg",
-    "promotionDates": "Promotion runs Oct 28–Nov 29, 2025. Winner selected Nov 30, 2025.",
-    "endDate": "2025-11-30T04:59:00.000Z",
+    "promotionDates": "Promotion runs December 1 – Jan 8, 2026. Winner selected Jan 9, 2026.",
+    "endDate": "2026-01-09T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Neighbourhood Treasures Giveaway",
     "successModalHeaderText": "You’re In the Running!",
-    "successModalMainMessage": "Your entry for the <strong>Neighbourhood Treasures Giveaway</strong> is in. We will draw the winner on Nov 30, 2025 and email the result. Good luck!",
+    "successModalMainMessage": "Your entry for the <strong>Neighbourhood Treasures Giveaway</strong> is in. We will draw the winner on Jan 9, 2025 and email the result. Good luck!",
     "successModalEmailPrompt": "Watch your email on Nov 30—reply within 48 hours to claim the prize."
   },
   "settings": {
@@ -78,7 +78,7 @@ const config = {
     "name": "Neighbourhood Treasures Giveaway",
     "value": "$100 Value",
     "description": "Love local finds? Good Neighbour is a Leslieville favourite. Pick stylish apparel. Grab warm home goods. Find toys and fun gifts. This $100 gift card lets you treat yourself or someone you love. Simple, local, and full of charm.",
-    "limitedTimeOfferText": "Limited Fall Giveaway — Ends Soon!",
+    "limitedTimeOfferText": "Limited Winter Giveaway — Ends Soon!",
     "ctaButtonText": "I Want This Gift Card!"
   },
   "howToEnter": {
@@ -150,7 +150,7 @@ const config = {
       },
       {
         "q": "When does entry close?",
-        "a": "Entries close Nov 29, 2025 at 11:59 PM ET. Draw is Nov 30, 2025."
+        "a": "Entries close Jan 8, 2026 at 11:59 PM ET. Draw is Jan 9, 2026."
       }
     ],
     "tips": [
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1761588296435_0",
+      "id": "q_auto_1762283378160_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761588296435_1",
+      "id": "q_auto_1762283378160_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761588296435_2",
+      "id": "q_auto_1762283378160_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -255,7 +255,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re In the Running!",
-    "mainMessage": "Your entry for the <strong>Neighbourhood Treasures Giveaway</strong> is in. We will draw the winner on Nov 30, 2025 and email the result. Good luck!",
+    "mainMessage": "Your entry for the <strong>Neighbourhood Treasures Giveaway</strong> is in. We will draw the winner on Jan 9, 2025 and email the result. Good luck!",
     "socialPromptText": "Tell a neighbour. More entries make it fun. Watch your inbox on Nov 30."
   },
   "footerContact": {
@@ -269,7 +269,7 @@ const config = {
       "phone": "(647) 409-6568",
       "email": "daaron@property.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Daaron Johnston at Property.Ca and is not affiliated with Good Neighbour, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close Nov 29, 2025 at 11:59 PM ET. Winner selected at random on Nov 30, 2025. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
+    "footerDisclaimer": "This giveaway is sponsored by Daaron Johnston at Property.Ca and is not affiliated with Good Neighbour, Instagram, or Facebook. No purchase necessary. Ontario residents only. Must be 18+. One entry per person. Entries close Jan 8, 2026 at 11:59 PM ET. Winner selected at random on Jan 9, 2026. Odds depend on number of entries. By entering, you agree to our Privacy Policy.",
     "organizerLogoUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/5LwEgxAcQN6CdYWQXNYq/media/afffa9f4-9be1-48b2-857d-0907f64d2e97.png",
     "secondaryLogoUrl": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/5LwEgxAcQN6CdYWQXNYq/media/6813d66601c78bf3c795155b.png",
     "secondaryLogoAlt": "Property.Ca",
