@@ -8,7 +8,7 @@ const config = {
     "heroHeadline": "Win a <span class='highlight'>$100 Good Neighbour Gift Card</span> in Leslieville!",
     "heroSubheadline": "Shop local. Find gifts, clothes, toys, and home goods. Fast entry. Free to join. Enter by Jan 8. Winner drawn Jan 9.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/r4yfq50ch9rma0ct1219kvw9jw.jpg",
-    "promotionDates": "Promotion runs December 1 – Jan 8, 2026. Winner selected Jan 9, 2026.",
+    "promotionDates": "Promotion runs November 12th – Jan 8, 2026. Winner selected Jan 9, 2026.",
     "endDate": "2026-01-09T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1762283378160_0",
+      "id": "q_auto_1762687166101_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1762283378160_1",
+      "id": "q_auto_1762687166101_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1762283378160_2",
+      "id": "q_auto_1762687166101_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
